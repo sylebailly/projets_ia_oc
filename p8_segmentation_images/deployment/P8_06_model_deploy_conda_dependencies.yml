@@ -1,0 +1,15 @@
+name: dependencies_env
+channels:
+- conda-forge
+dependencies:
+- python=3.8
+- pip:
+  - azureml-defaults
+  - azureml-sdk
+  - numpy
+  - sklearn
+  - tensorflow==2.7.0
+  - pandas
+  - joblib
+  - pillow
+
