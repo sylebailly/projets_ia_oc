@@ -8,6 +8,20 @@
 
 ## Projets
 
+### Exploration Open Food Facts
+
+Analyse exploratoire d'une base de données alimentaire afin d'étudier les relations entre les informations nutritionnelles et le Nutri-Score.
+
+Approche :
+
+* nettoyage et préparation des données,
+* traitement des valeurs manquantes et des doublons,
+* détection des valeurs aberrantes,
+* imputation KNN,
+* analyse exploratoire (EDA),
+* analyse statistique (ANOVA),
+* analyse en composantes principales (ACP).
+
 ### Scoring crédit
 
 Modélisation du risque de défaut de paiement à partir de données financières historiques.
